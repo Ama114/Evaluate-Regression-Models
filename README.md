@@ -1,8 +1,6 @@
-# Evaluate-Regression-Models
+# in this section use :
   
-  
-  ####in this section use :
-      #### Mean Absolute Error(MAE)
-   ### Root Mean Squard Error(RMSE)
-    ### R squared
+        # Mean Absolute Error(MAE)
+        # Root Mean Squard Error(RMSE)
+        # R squared
                   
