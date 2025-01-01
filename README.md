@@ -3,5 +3,6 @@
   
         # Mean Absolute Error(MAE)
         # Root Mean Squard Error(RMSE)
-        # R squared
+        # R squared:
+                    between 0 -1 ( if value is near the 1 then descrease the accuracy  )
                   
